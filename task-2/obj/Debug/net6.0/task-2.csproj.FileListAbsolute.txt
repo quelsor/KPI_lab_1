@@ -1,0 +1,14 @@
+D:\Visual Studio Progects\labTasks\task-2\bin\Debug\net6.0\task-2.exe
+D:\Visual Studio Progects\labTasks\task-2\bin\Debug\net6.0\task-2.deps.json
+D:\Visual Studio Progects\labTasks\task-2\bin\Debug\net6.0\task-2.runtimeconfig.json
+D:\Visual Studio Progects\labTasks\task-2\bin\Debug\net6.0\task-2.dll
+D:\Visual Studio Progects\labTasks\task-2\bin\Debug\net6.0\task-2.pdb
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.AssemblyInfoInputs.cache
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.AssemblyInfo.cs
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.dll
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\refint\task-2.dll
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.pdb
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\task-2.genruntimeconfig.cache
+D:\Visual Studio Progects\labTasks\task-2\obj\Debug\net6.0\ref\task-2.dll

@@ -1,0 +1,14 @@
+D:\Visual Studio Progects\labTasks\task-3\bin\Debug\net6.0\task-3.exe
+D:\Visual Studio Progects\labTasks\task-3\bin\Debug\net6.0\task-3.deps.json
+D:\Visual Studio Progects\labTasks\task-3\bin\Debug\net6.0\task-3.runtimeconfig.json
+D:\Visual Studio Progects\labTasks\task-3\bin\Debug\net6.0\task-3.dll
+D:\Visual Studio Progects\labTasks\task-3\bin\Debug\net6.0\task-3.pdb
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.AssemblyInfoInputs.cache
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.AssemblyInfo.cs
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.dll
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\refint\task-3.dll
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.pdb
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\task-3.genruntimeconfig.cache
+D:\Visual Studio Progects\labTasks\task-3\obj\Debug\net6.0\ref\task-3.dll
